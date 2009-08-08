@@ -17,7 +17,7 @@ The Jaxer loader looks for the NARWHAL_HOME environment variable, then the Jaxer
 Put narwhal or a link to it in your web directory and in a page:
 
 <pre>
-&lt;script runat="server" src="narwhal/engines/jaxer/bootstrap.js"&gt;&lt;/script&gt;
+&lt;script runat="server" src="narwhal/packages/narwhal-jaxer/bootstrap.js"&gt;&lt;/script&gt;
 </pre>
 
 Notes
